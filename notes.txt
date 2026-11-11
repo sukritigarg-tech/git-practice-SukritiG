@@ -1,4 +1,6 @@
+
 Git helps track project history.
+git makes teamwork easier.
 git tracks changes in my files
 Each commit saves a checkpoint
 This line was added on a feature branch.
